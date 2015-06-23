@@ -2,6 +2,7 @@ Eric's XMonad config.
 
 To use in Ubuntu:
 
+1. Clone this repo to your home folder: `git clone https://github.com/emchristiansen/.xmonad.git ~/.xmonad`.
 1. Install XMonad and related packages: `sudo apt-get install xmonad libghc-xmonad-contrib-dev xcompmgr hsetroot`.
 1. Make sure you can compile the `xmonad.hs` config: `xmonad --recompile`.
 1. Log out then back in, choosing Gnome 2.x as your desktop environment.
